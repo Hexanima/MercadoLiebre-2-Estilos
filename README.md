@@ -1,10 +1,10 @@
 # Mercado Liebre
 
-Proyecto de sitio web para Digital House
+Proyecto de sitio web para Digital House.
 
 ## Etapa actual - Estilos
 
-En esta etapa agregamos estilos al sitio web, dimensionando cada cosa y dandole color
+En esta etapa agregamos estilos al sitio web, dimensionando cada cosa y dandole color.
 
 ## Progreso
 
@@ -16,13 +16,14 @@ En esta etapa agregamos estilos al sitio web, dimensionando cada cosa y dandole 
 
 ## Como usar
 
-Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal
+Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal.
 
 ```console
 npm install
 ```
-Esto instalará las dependencias del servidor
-Ahora solo queda iniciarlo con el siguiente comando
+Esto instalará las dependencias del servidor.
+
+Ahora solo queda iniciarlo con el siguiente comando.
 
 ```console
 node app.js
