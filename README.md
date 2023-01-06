@@ -14,6 +14,8 @@ En esta etapa agregamos estilos al sitio web, dimensionando cada cosa y dandole 
 
 [3 - Diseño adaptativo](https://github.com/Hexanima/MercadoLiebre-3-Adaptativo)
 
+[4 - Flexbox](https://github.com/Hexanima/MercadoLiebre-4-Flexbox)
+
 ## Como usar
 
 Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal.
